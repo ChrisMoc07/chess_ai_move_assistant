@@ -1,0 +1,10 @@
+INSTALL -> pip install python-chess stockfish pygame
+
+PYTHON VERSION 3.11 NEEDED TO RUN THE CODE 
+CREATE VIRTUAL ENVIRONMENT -> 
+
+python3.11 -m venv venv
+venv\Scripts\activate
+
+run -> python main.py
+
