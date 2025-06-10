@@ -1,3 +1,5 @@
+DOWNLOAD STOCKFISH 17.1 and ADD THE UNZIPPED FILE TO PATH 
+
 INSTALL -> pip install python-chess stockfish pygame
 
 PYTHON VERSION 3.11 NEEDED TO RUN THE CODE 
