@@ -119,6 +119,6 @@ This project is licensed under the MIT License. See the LICENSE file for full li
 ## Contact
 
 Chris Moc  
-Email: mocchris303@gmail.com  
-LinkedIn: https://www.linkedin.com/in/your-link-here  
+Email: chrismoczarny771@gmail.com  
+LinkedIn: https:/https://www.linkedin.com/in/christian-moczarny
 GitHub: https://github.com/ChrisMoc07
